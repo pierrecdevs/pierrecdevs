@@ -92,6 +92,6 @@
 
 <p align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact" alt="pierrecdevs" /> -->
-<img src="https://github-readme-stats-afallenhopes-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact" alt="pierrecdevs" />
+<img src="https://github-readme-stats-afallenhopes-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact&version=1" alt="pierrecdevs" />
 
 </p>
