@@ -7,11 +7,6 @@
 - 🧔 Remember to breathe
 - 🧑‍💻 Alternative account [Fallen Kiyori Shadow](https://github.com/afallenhope)
 
-<!---
-pierrecdevs/pierrecdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <table>
   <thead>
   <tr>
