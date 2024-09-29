@@ -92,7 +92,8 @@
 
 <p align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact" alt="pierrecdevs" /> -->
-<img src="https://github-readme-stats-afallenhopes-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact&version=1" alt="pierrecdevs" />
-<a href="https://open.spotify.com/user/aeriq.ravenheart"><img src="https://github-now-playing-five.vercel.app/api/spotify" alt="Now playing" /></a>
-
+  <img src="https://github-readme-stats-afallenhopes-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact&version=1" alt="pierrecdevs" />
+</p>
+<p align="center>
+  <a href="https://open.spotify.com/user/aeriq.ravenheart"><img src="https://github-now-playing-five.vercel.app/api/spotify" alt="Now playing" /></a>
 </p>
