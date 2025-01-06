@@ -6,6 +6,7 @@
 - 👍 I'm laidback and pretty outgoing.
 - 🧔 Remember to breathe
 - 🧑‍💻 Alternative account [Fallen Kiyori Shadow](https://github.com/afallenhope)
+- 📺 I also stream on [Twitch.tv](https://twitch.tv/FallenLearns)
 
 <table>
   <thead>
