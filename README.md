@@ -28,6 +28,13 @@
   <a href="https://open.spotify.com/user/aeriq.ravenheart"><img src="https://github-now-playing-five.vercel.app/api/spotify" alt="Now playing" /></a>
 </p>
 
+### 🪪 GitHub Stats
+
+<p align="center">
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact" alt="pierrecdevs" /> -->
+  <img src="https://github-readme-stats-afallenhope-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact&version=2" alt="pierrecdevs" />
+</p>
+
 <h1 align="center">Technologies</h1>
 <table>
   <thead>
@@ -112,10 +119,3 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-### 🪪 GitHub Stats
-
-<p align="center">
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact" alt="pierrecdevs" /> -->
-  <img src="https://github-readme-stats-afallenhope-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact&version=2" alt="pierrecdevs" />
-
-</p>
