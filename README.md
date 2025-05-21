@@ -1,14 +1,32 @@
 <h1 align="center">👋 Hi, I’m @pierrecdevs</h1>
 <h3 align="center">I'm a <strong>Full Stack Developer</strong> with a passion for <strong>Cybersecurity</strong></h3>
 
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning golang, 
-- 👍 I'm laidback and pretty outgoing.
-- 🧔 Remember to breathe
-- 🧑‍💻 Alternative account [Fallen Kiyori Shadow](https://github.com/afallenhope)
-- 📺 I also stream on [Twitch.tv](https://twitch.tv/FallenLearns)
+- 👀 I am interested in learning new technologies and programming languages.
+- 📖 I am current learning Golang
+- 👍 I am laidback and outgoing.
+- 🗨️ "Remember to breathe"
+- 🧑🏻‍💻 Personal GitHub [account](https://github.com/afallenhope)
+- 📺 Fun fact! I also stream on [Twitch.tv/FallenLearns](https://twitch.tv/FallenLearns)
+
+### 🖥️ Dev Environment
+
+- <strong>OS:</strong> Gentoo 2.17 x86_64
+- <strong>Kernel:</strong> Linux 6.12.21-gentoo-x86_64
+- <strong>Window Manager:</strong> dwm (Wayland)
+- <strong>Destop Environment:</strong> Hyprland
+
+### 🧑🏻‍💻 Workflow
+
+- <strong>Editor(s):</strong> Neovim, WebStorm / PHPStorm, PyCharm
+- <strong>Terminal Emulator:</strong> Kitty
+- <strong>Terminal Multiplexer:</strong> Tmux
 
 
+### 🎶 My Current Jams
+
+<p align="center">
+  <a href="https://open.spotify.com/user/aeriq.ravenheart"><img src="https://github-now-playing-five.vercel.app/api/spotify" alt="Now playing" /></a>
+</p>
 
 <h1 align="center">Technologies</h1>
 <table>
@@ -94,11 +112,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
+### 🪪 GitHub Stats
+
 <p align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact" alt="pierrecdevs" /> -->
   <img src="https://github-readme-stats-afallenhope-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact&version=2" alt="pierrecdevs" />
 
-</p>
-<p align="center">
-  <a href="https://open.spotify.com/user/aeriq.ravenheart"><img src="https://github-now-playing-five.vercel.app/api/spotify" alt="Now playing" /></a>
 </p>
