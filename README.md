@@ -11,7 +11,7 @@
 ### 🖥️ Dev Environment
 
 - <strong>OS:</strong> Gentoo 2.17 x86_64
-- <strong>Kernel:</strong> Linux 6.12.21-gentoo-x86_64
+- <strong>Kernel:</strong> Linux 6.12.31-gentoo-x86_64
 - <strong>Window Manager:</strong> dwm (Wayland)
 - <strong>Destop Environment:</strong> Hyprland
 
@@ -32,7 +32,7 @@
 
 <p align="center">
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact" alt="pierrecdevs" /> -->
-  <img src="https://github-readme-stats-afallenhope-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact&version=2" alt="pierrecdevs" />
+  <img src="https://github-readme-stats-afallenhope-projects.vercel.app/api/top-langs?username=pierrecdevs&show_icons=true&locale=en&layout=compact&version=3&langs_count=10" alt="pierrecdevs" />
 </p>
 
 <h1 align="center">Technologies</h1>
