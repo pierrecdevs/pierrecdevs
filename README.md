@@ -11,13 +11,13 @@
 ### 🖥️ Dev Environment
 
 - <strong>OS:</strong> Gentoo 2.17 x86_64
-- <strong>Kernel:</strong> Linux 6.12.31-gentoo-x86_64
+- <strong>Kernel:</strong> Linux 6.12.58-gentoo-x86_64
 - <strong>Window Manager:</strong> dwm (Wayland)
 - <strong>Destop Environment:</strong> Hyprland
 
 ### 🧑🏻‍💻 Workflow
 
-- <strong>Editor(s):</strong> Neovim, WebStorm / PHPStorm, PyCharm
+- <strong>Editor(s):</strong> Neovim, Jetbrains IDEs (PyCharm, WebStorm, PHPStorm, etc...) 
 - <strong>Terminal Emulator:</strong> Kitty
 - <strong>Terminal Multiplexer:</strong> Tmux
 
