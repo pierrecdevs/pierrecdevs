@@ -2,9 +2,10 @@
 <h3 align="center">I'm a <strong>Full Stack Developer</strong> with a passion for <strong>Cybersecurity</strong></h3>
 
 - 👀 I am interested in learning new technologies and programming languages.
-- 📖 I am current learning Golang
+- 📖 I am current learning Rust
 - 👍 I am laidback and outgoing.
 - 🗨️ "Remember to breathe"
+- 🌐 [Website](https://goldfeesh.net)
 - 🧑🏻‍💻 Personal GitHub [account](https://github.com/afallenhope)
 - 📺 Fun fact! I also stream on [Twitch.tv/FallenLearns](https://twitch.tv/FallenLearns)
 
